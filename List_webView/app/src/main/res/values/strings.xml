@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">List_webView</string>
+
+    <string-array name="Flowers">
+        <item>Rose</item>
+        <item>Lotus</item>
+        <item>Lily</item>
+        <item>Marigold</item>
+        <item>Jasmine</item>
+    </string-array>
+</resources>
